@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GlobalTranslateProcesos</name>
+    </assembly>
+    <members>
+        <member name="M:GlobalTranslateProcesos.Controllers.ExtractorController.Extraer(Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            La imagen debe cumplir las siguientes condiciones:Debe ser tipo png, jpg o bmp,La resolucion debe estar entre 50x50 y 4200x4200 y No debe pesar mas de 4Mb
+            </summary>
+            <param name="archivo"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
